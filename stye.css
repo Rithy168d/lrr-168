@@ -1,0 +1,50 @@
+body{
+  background-image: url(images/Background.jpg);
+  width: 1750px;
+}
+
+.example{
+  background-image: url(image/wellpaper1.jpg);
+  padding: 90px;
+  color: rgb(0, 0, 0);
+}
+.logo{
+  padding: 80px;
+}
+
+.button {
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button:hover{
+  color: black;
+}
+
+.img{
+  border-radius: 50%;
+}
+
+.banner2{
+  background-image: url(images/banner3.jpg);
+  background-repeat: no-repeat, repeat;
+  padding: 100px;
+  color: rgb(0, 0, 0);
+}
+
+.hello{
+  border-radius: 50%;
+}
+
+.banner3{
+  background-image: url(image/wellpaper2.jpg);
+  background-repeat: no-repeat, repeat;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+}
+.logos{
+  padding: 10px;
+}
